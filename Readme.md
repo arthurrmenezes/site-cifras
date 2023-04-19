@@ -1,0 +1,1 @@
+Olá, esse projeto é uma demonstração da tela inicial de um site. Ele foi feito junto com os cursos de HTML e CSS da Alura.
